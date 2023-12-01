@@ -1,4 +1,4 @@
-// Tipos primitivos
+// Tipos primitivos con mucho pelo
 
 40   // Numeros 
 3.14
