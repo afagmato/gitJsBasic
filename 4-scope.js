@@ -36,7 +36,7 @@ console.log(miApellido);
 
 //  Ejemplos de como puede ayuar o crear error el tema del scope. 
 
-// Ejemplo 1, cómo con una funcion podemos vambiar el valor de la variable global
+// Ejemplo 1, cómo con una funcion podemos cambiar el valor de la variable global
 var miNombre = "Diego"
 
 function nombre(usuario) {

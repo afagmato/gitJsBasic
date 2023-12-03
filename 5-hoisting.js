@@ -15,7 +15,7 @@ console.log(miNombre + "soy hoisting");
 miNombre = "Diego";
 
 
-// ===  Hoisting con funcionts  ===
+// ===  Hoisting con funcions  ===
 
 hey();
 
