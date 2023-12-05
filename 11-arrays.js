@@ -9,7 +9,7 @@ console.log(frutas);
 console.log(frutas.length); // length es una propiedad del array
 
 // Acceder (por índice) a un elemento del Array
-console.log(frutas[0]);   // Los arrays iician en "0" 
+console.log(frutas[0]);   // Los arrays inician en "0" 
 
 
 // === Metodos para mutar arrays ===
